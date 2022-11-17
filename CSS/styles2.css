@@ -1,0 +1,145 @@
+body {
+	font-size: 1.2em;
+	font-family: 'DM Sans', sans-serif;
+	margin: 0px auto;
+	width:100%;
+	text-align:left;
+	background-color: #39B54A;
+	background-image: image(sports.webp);
+}
+img {
+	max-height:100vh;
+	max-width:100%
+}
+.block {
+	padding:2em;
+	display:block;
+	text-align:left;
+	max-height:200vh;
+	max-width:50%;
+}
+
+.title {
+	max-height:7vh;
+	max-width:50%;
+}
+.number1  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: center;
+}
+.number1text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number2 {
+	max-height:8vh;
+	max-width:100%;
+	text-align: right;
+}
+.number2text {
+	padding:2em;
+	display:block;
+	text-align:right;
+}
+.number3  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: left;
+}
+.number3text {
+padding:2em;
+display:block;
+text-align:left;
+}
+.number4  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: center;
+}
+.number4text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number5  {
+	max-height:10vh;
+	max-width:100%;
+	text-align: right;
+}
+.number5text {
+padding:2em;
+display:block;
+text-align:right;
+}
+.number6  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: left;
+}
+.number6text {
+padding:2em;
+display:block;
+text-align:left;
+}
+.number7  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: center;
+}
+.number7text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number8  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: right;
+}
+.number8text {
+padding:2em;
+display:block;
+text-align:right;
+}
+.number9  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: left;
+}
+.number9text {
+padding:2em;
+display:block;
+text-align:left;
+}
+.number10  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: center;
+}
+.number10text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number11  {
+	max-height:8vh;
+	max-width:100%;
+	text-align: right;
+}
+.number11text {
+padding:2em;
+display:block;
+text-align:right;
+}
+.link {
+	padding:2em;
+	display:block;
+	text-align:center;
+}
+.dolls img {
+	max-height:80vh;
+	max-width:100%;
+	text-align:center;
+}

@@ -1,0 +1,180 @@
+
+body {
+	font-size: 1.2em;
+	font-family: 'DM Sans', sans-serif;
+	margin: 0px auto;
+	width:100%;
+	text-align:left;
+	background-color: #39B54A;
+}
+
+#content {
+    margin: 0px auto;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.block {
+	padding:2em;
+	display:block;
+	text-align:left;
+	max-height:200vh;
+	max-width:50%;
+}
+
+img {
+	max-height:80vh;
+	max-width:50%;
+	text-align: left;
+}
+.title {
+	padding:2em;
+	display:block;
+	align content:left;
+}
+
+.left {
+	width: calc(25% - 1em);
+	float:left;
+	position: fixed;
+}
+.left img {
+	max-height:100vh;
+	max-width:100%
+}
+
+.right {
+	width: calc(75% - 4em);
+	padding:2em;
+	padding-left:  calc(25% - 1em);
+	display:inline-block;
+	float:left;
+	max-width:800px;
+	text-align:left;
+}
+.number1  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: center;
+}
+.number1text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number2 {
+	max-height:10vh;
+	max-width:100%;
+	z-index:-10;
+	text-align: right;
+}
+.number2text {
+	padding:2em;
+	display:block;
+	text-align:center;
+}
+.number3  {
+	max-height:80vh;
+	max-width:100%;
+	text-align: left;
+}
+.number3text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number4  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: center;
+}
+.number4text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number5  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: right;
+}
+.number5text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number6  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: left;
+}
+.number6text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number7  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: center;
+}
+.number7text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number8  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: right;
+}
+.number8text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number9  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: left;
+}
+.number9text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number10  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: center;
+}
+.number10text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.number11  {
+	max-height:100vh;
+	max-width:100%;
+	text-align: right;
+}
+.number11text {
+padding:2em;
+display:block;
+text-align:center;
+}
+.flamingo {
+	width: calc(45% - 6em);
+	float:right;
+	right:4.2em;
+	top:44.4em;
+	position:fixed;
+}
+.leaf {
+	width: calc(40% - 6em);
+	float:right;
+	right:10.5em;
+	top:23.2em;
+	position: absolute;
+}
